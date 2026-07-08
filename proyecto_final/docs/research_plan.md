@@ -1,0 +1,9 @@
+- problema
+- motivación
+- pregunta de investigación
+- hipótesis
+- objetivos
+- metodología
+- variables
+- experimentos planificados
+- métricas de evaluación

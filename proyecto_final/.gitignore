@@ -1,0 +1,26 @@
+# Entornos
+venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+
+# Datos
+data/raw/
+data/processed/
+
+# Modelos entrenados
+models/
+*.pt
+*.pth
+*.onnx
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
+
+# Reportes compilados
+reports/**/*.aux
+reports/**/*.log
+reports/**/*.out
+reports/**/*.toc
+reports/**/*.synctex.gz
